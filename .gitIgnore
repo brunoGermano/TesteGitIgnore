@@ -9,6 +9,7 @@ index-teste.html
 # .DS_*
 *.log
 
+
 # logs
 # **/*.backup.*
 # **/*.back.*
